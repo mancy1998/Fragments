@@ -80,12 +80,12 @@
         "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -104,12 +104,12 @@
         "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/5c6ec2171fb7221a5fa1fe092a0a8567/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -324,12 +324,12 @@
         "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/color/abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
-        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/color-v23/abc_tint_edittext.xml"
-    },
-    {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
+        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/color-v23/abc_tint_edittext.xml"
     },
     {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -340,12 +340,12 @@
         "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/5c6ec2171fb7221a5fa1fe092a0a8567/res/drawable-v21/notification_action_background.xml"
     },
     {
-        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
-        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
-    },
-    {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
         "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
@@ -356,12 +356,12 @@
         "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
         "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
@@ -464,12 +464,12 @@
         "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
-        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/ec7f9355dead9b89ae18589316c27e21/res/layout/notification_media_cancel_action.xml"
-    },
-    {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
         "source": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/ec7f9355dead9b89ae18589316c27e21/res/layout/notification_media_cancel_action.xml"
     },
     {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -540,12 +540,12 @@
         "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
-        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable/abc_btn_radio_material.xml"
-    },
-    {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
+        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable/abc_btn_radio_material.xml"
     },
     {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
@@ -584,12 +584,12 @@
         "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
-        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/mansideep/.gradle/caches/transforms-2/files-2.1/d21e3838f24efbf97b28a55fea24befe/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/mansideep/AndroidStudioProjects/FragmentExample1/app/build/intermediates/res/merged/debug/drawable_abc_ic_voice_search_api_material.xml.flat",
