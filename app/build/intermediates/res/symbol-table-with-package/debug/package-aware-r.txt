@@ -689,9 +689,8 @@ id end_padder
 id expand_activities_button
 id expanded_menu
 id forever
-id fragment
+id fragment_container
 id fragment_header
-id fragment_header2
 id gone
 id groups
 id home
@@ -719,6 +718,7 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id open_button
 id packed
 id parent
 id parentPanel
@@ -729,7 +729,6 @@ id radio
 id radio_button_no
 id radio_button_yes
 id radio_group
-id ratingBar
 id right
 id right_icon
 id right_side
@@ -873,20 +872,16 @@ string article1
 string article2
 string close
 string exception_message
-string my_rating
 string no
 string no_message
-string no_message2
 string open
 string question_article
-string question_the_song
 string search_menu_title
 string status_bar_notification_info_overflow
 string title1
 string title2
 string yes
 string yes_message
-string yes_message2
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
